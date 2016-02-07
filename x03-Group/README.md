@@ -14,6 +14,7 @@ Together, as a group, you will fork this repo and collaborate to summarize some 
 * [Priyanka Bandaru](https://github.com/priyankabandaru) - Interested in resolving bugs and also contribution in adding functionalities.
 * [Rahul Shinde](https://github.com/rahulvshinde) - Interested in fixing the long list of bugs
 * [Sumeet Tulsani](https://github.com/stulsani) - Interested in resolving the long list of bugs
+* [Chaitanya Srinivas Ponnapalli](https://github.com/chaitanyasponnapalli) - Interested in resolving long list of bugs and development activities.
 
 ### Communication
 
